@@ -13,7 +13,7 @@ namespace StockApiApp.Services
     public class WebSocketService : BackgroundService
     {
         private ClientWebSocket _webSocket;
-        private readonly string _webSocketUrl = "wss://ws.finnhub.io?token=cv8kn39r01qqdqh6m0k0cv8kn39r01qqdqh6m0kg";
+        private readonly string _webSocketUrl = "wss://ws.finnhub.io?token=";
         private readonly IHubContext<StockHub> _hubContext;
         private readonly ILogger<WebSocketService> _logger;
         private CancellationTokenSource _heartbeatCts;
