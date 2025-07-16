@@ -17,7 +17,7 @@ namespace StockApiApp.Controllers
         {
             DefaultRequestHeaders =
             {
-                { "x-rapidapi-key", "3f8ac7f65fmshf80d4fb0e86ca32p1dd83ajsn3eec19696e72" },
+                { "x-rapidapi-key", "" },
                 { "x-rapidapi-host", "alpha-vantage.p.rapidapi.com" },
             }
         };
