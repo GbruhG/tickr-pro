@@ -13,7 +13,7 @@ namespace StockApiApp.Services
         {
             DefaultRequestHeaders =
             {
-                { "x-cg-pro-api-key", "CG-JbZcAi1C4GvUwfswrMh6xSaA" }
+                { "x-cg-pro-api-key", "" }
             }
         };
         private readonly RedisService _redisService;
