@@ -1,0 +1,2494 @@
+[
+  {
+    "Ticker": "X:00USD",
+    "Name": "00 Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:1INCHUSD",
+    "Name": "1inch - United States Dollar"
+  },
+  {
+    "Ticker": "X:A8USD",
+    "Name": "Ancient8 - United States Dollar"
+  },
+  {
+    "Ticker": "X:AAVEUSD",
+    "Name": "Aave - United States Dollar"
+  },
+  {
+    "Ticker": "X:ABTUSD",
+    "Name": "Arcblock - United States Dollar"
+  },
+  {
+    "Ticker": "X:ACAUSD",
+    "Name": "Acala - United States Dollar"
+  },
+  {
+    "Ticker": "X:ACHUSD",
+    "Name": "Alchemy Pay - United States Dollar"
+  },
+  {
+    "Ticker": "X:ACSUSD",
+    "Name": "Access Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:ACXUSD",
+    "Name": "Across Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:ADAUSD",
+    "Name": "Cardano - United States Dollar"
+  },
+  {
+    "Ticker": "X:ADXUSD",
+    "Name": "AdEx - United States Dollar"
+  },
+  {
+    "Ticker": "X:AERGOUSD",
+    "Name": "Aergo - United States Dollar"
+  },
+  {
+    "Ticker": "X:AEROUSD",
+    "Name": "Aerodome Finance - United States Dollar"
+  },
+  {
+    "Ticker": "X:AEVOUSD",
+    "Name": "Aevo - United States Dollar"
+  },
+  {
+    "Ticker": "X:AGLDUSD",
+    "Name": "Adventure Gold - United States Dollar"
+  },
+  {
+    "Ticker": "X:AIOZUSD",
+    "Name": "AIOZ Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:AIRUSD",
+    "Name": "AIRian - United States Dollar"
+  },
+  {
+    "Ticker": "X:AKTEUR",
+    "Name": "Akash Network - Euro"
+  },
+  {
+    "Ticker": "X:AKTUSD",
+    "Name": "Akash - United States Dollar"
+  },
+  {
+    "Ticker": "X:ALBTUSD",
+    "Name": "AllianceBlock - United States Dollar"
+  },
+  {
+    "Ticker": "X:ALCXUSD",
+    "Name": "Alchemix - United States Dollar"
+  },
+  {
+    "Ticker": "X:ALEOUSD",
+    "Name": "Aleo - United States Dollar"
+  },
+  {
+    "Ticker": "X:ALEPHUSD",
+    "Name": "Aleph.im v2 - United States Dollar"
+  },
+  {
+    "Ticker": "X:ALGOUSD",
+    "Name": "Algorand - United States Dollar"
+  },
+  {
+    "Ticker": "X:ALGUSD",
+    "Name": "Algory - United States Dollar"
+  },
+  {
+    "Ticker": "X:ALICEUSD",
+    "Name": "MyNeighborAlice - United States Dollar"
+  },
+  {
+    "Ticker": "X:ALPHAUSD",
+    "Name": "Stella - United States Dollar"
+  },
+  {
+    "Ticker": "X:ALT11M2507USD",
+    "Name": "ALT11M2507 - United States Dollar"
+  },
+  {
+    "Ticker": "X:ALT11M250830USD",
+    "Name": "ALT11M250830 - United States Dollar"
+  },
+  {
+    "Ticker": "X:ALT11M251029USD",
+    "Name": "ALT11M251029 - United States Dollar"
+  },
+  {
+    "Ticker": "X:ALT2612USD",
+    "Name": "ALT2612 - United States Dollar"
+  },
+  {
+    "Ticker": "X:ALTUSD",
+    "Name": "AltLayer - United States Dollar"
+  },
+  {
+    "Ticker": "X:AMPUSD",
+    "Name": "Amp - United States Dollar"
+  },
+  {
+    "Ticker": "X:ANKRUSD",
+    "Name": "Ankr - United States Dollar"
+  },
+  {
+    "Ticker": "X:ANTUSD",
+    "Name": "Aragon - United States Dollar"
+  },
+  {
+    "Ticker": "X:APENFTUSD",
+    "Name": "APENFT - United States Dollar"
+  },
+  {
+    "Ticker": "X:APEUSD",
+    "Name": "ApeCoin - United States Dollar"
+  },
+  {
+    "Ticker": "X:API3USD",
+    "Name": "API3 - United States Dollar"
+  },
+  {
+    "Ticker": "X:APPUSD",
+    "Name": "Moon App - United States Dollar"
+  },
+  {
+    "Ticker": "X:APTUSD",
+    "Name": "Aptos - United States Dollar"
+  },
+  {
+    "Ticker": "X:APUUSD",
+    "Name": "APU - United States Dollar"
+  },
+  {
+    "Ticker": "X:ARBUSD",
+    "Name": "Arbitrum - United States Dollar"
+  },
+  {
+    "Ticker": "X:ARKMUSD",
+    "Name": "Arkham - United States Dollar"
+  },
+  {
+    "Ticker": "X:ARPAUSD",
+    "Name": "ARPA Chain - United States Dollar"
+  },
+  {
+    "Ticker": "X:ASMUSD",
+    "Name": "Assemble Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:ASTRUSD",
+    "Name": "Astar - United States Dollar"
+  },
+  {
+    "Ticker": "X:ASTUSD",
+    "Name": "AirSwap - United States Dollar"
+  },
+  {
+    "Ticker": "X:ATAUSD",
+    "Name": "Automata Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:ATHUSD",
+    "Name": "Aethir - United States Dollar"
+  },
+  {
+    "Ticker": "X:ATLASUSD",
+    "Name": "Star Atlas - United States Dollar"
+  },
+  {
+    "Ticker": "X:ATOMUSD",
+    "Name": "Cosmos - United States Dollar"
+  },
+  {
+    "Ticker": "X:ATOUSD",
+    "Name": "ATO - United States Dollar"
+  },
+  {
+    "Ticker": "X:AUCTIONUSD",
+    "Name": "Bounce Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:AUDIOUSD",
+    "Name": "Audius - United States Dollar"
+  },
+  {
+    "Ticker": "X:AURORAUSD",
+    "Name": "Aurora - United States Dollar"
+  },
+  {
+    "Ticker": "X:AUSDTUSD",
+    "Name": "aUSDT - United States Dollar"
+  },
+  {
+    "Ticker": "X:AVAXUSD",
+    "Name": "Avalanche - United States Dollar"
+  },
+  {
+    "Ticker": "X:AVTUSD",
+    "Name": "Aventus - United States Dollar"
+  },
+  {
+    "Ticker": "X:AXLUSD",
+    "Name": "Axelar - United States Dollar"
+  },
+  {
+    "Ticker": "X:AXSUSD",
+    "Name": "Axie Infinity - United States Dollar"
+  },
+  {
+    "Ticker": "X:AZEROUSD",
+    "Name": "Aleph Zero - United States Dollar"
+  },
+  {
+    "Ticker": "X:B2MUSD",
+    "Name": "Bit2Me - United States Dollar"
+  },
+  {
+    "Ticker": "X:BADGERUSD",
+    "Name": "Badger Dao - United States Dollar"
+  },
+  {
+    "Ticker": "X:BALUSD",
+    "Name": "Balancer - United States Dollar"
+  },
+  {
+    "Ticker": "X:BANDUSD",
+    "Name": "Band Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:BATUSD",
+    "Name": "Basic Attention Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:BCHEUR",
+    "Name": "Bitcoin Cash - Euro"
+  },
+  {
+    "Ticker": "X:BCHGBP",
+    "Name": "Bitcoin Cash - Great Britian Pound"
+  },
+  {
+    "Ticker": "X:BCHNUSD",
+    "Name": "Bitcoin Cash - United States Dollar"
+  },
+  {
+    "Ticker": "X:BCHUSD",
+    "Name": "Bitcoin Cash - United States Dollar"
+  },
+  {
+    "Ticker": "X:BEAMUSD",
+    "Name": "BEAM - United States Dollar"
+  },
+  {
+    "Ticker": "X:BESTUSD",
+    "Name": "Bitpanda - United States Dollar"
+  },
+  {
+    "Ticker": "X:BFTUSD",
+    "Name": "BnkToTheFuture - United States Dollar"
+  },
+  {
+    "Ticker": "X:BGBUSD",
+    "Name": "Bitget Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:BICOUSD",
+    "Name": "Biconomy - United States Dollar"
+  },
+  {
+    "Ticker": "X:BIGTIMEUSD",
+    "Name": "Big Time - United States Dollar"
+  },
+  {
+    "Ticker": "X:BITUSD",
+    "Name": "BitDAO - United States Dollar"
+  },
+  {
+    "Ticker": "X:BLASTUSD",
+    "Name": "Blast - United States Dollar"
+  },
+  {
+    "Ticker": "X:BLURUSD",
+    "Name": "Blur - United States Dollar"
+  },
+  {
+    "Ticker": "X:BLZUSD",
+    "Name": "Bluzelle - United States Dollar"
+  },
+  {
+    "Ticker": "X:BNCUSD",
+    "Name": "Bifrost Native Coin - United States Dollar"
+  },
+  {
+    "Ticker": "X:BNTUSD",
+    "Name": "Bancor - United States Dollar"
+  },
+  {
+    "Ticker": "X:BOBAUSD",
+    "Name": "Boba Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:BODENUSD",
+    "Name": "Jeo Boden - United States Dollar"
+  },
+  {
+    "Ticker": "X:BOMEUSD",
+    "Name": "Book Of Meme - United States Dollar"
+  },
+  {
+    "Ticker": "X:BONDUSD",
+    "Name": "BarnBridge - United States Dollar"
+  },
+  {
+    "Ticker": "X:BONKEUR",
+    "Name": "Bonk - Euro"
+  },
+  {
+    "Ticker": "X:BONKUSD",
+    "Name": "Bonk - United States Dollar"
+  },
+  {
+    "Ticker": "X:BORGUSD",
+    "Name": "BORG - United States Dollar"
+  },
+  {
+    "Ticker": "X:BOSONUSD",
+    "Name": "Boson Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:BRICKUSD",
+    "Name": "Brick by Brick - United States Dollar"
+  },
+  {
+    "Ticker": "X:BSVUSD",
+    "Name": "Bitcoin SV - United States Dollar"
+  },
+  {
+    "Ticker": "X:BSXUSD",
+    "Name": "Basilisk - United States Dollar"
+  },
+  {
+    "Ticker": "X:BTCAUD",
+    "Name": "Bitcoin - Australian Dollar"
+  },
+  {
+    "Ticker": "X:BTCEUR",
+    "Name": "Bitcoin - Euro"
+  },
+  {
+    "Ticker": "X:BTCGBP",
+    "Name": "Bitcoin - Great Britain Pound"
+  },
+  {
+    "Ticker": "X:BTCJPY",
+    "Name": "Bitcoin - Japanese Yen"
+  },
+  {
+    "Ticker": "X:BTCPYUSD",
+    "Name": "BTCpy - United States Dollar"
+  },
+  {
+    "Ticker": "X:BTCUSD",
+    "Name": "Bitcoin - United States Dollar"
+  },
+  {
+    "Ticker": "X:BTGUSD",
+    "Name": "Bitcoin Gold - United States Dollar"
+  },
+  {
+    "Ticker": "X:BTRSTUSD",
+    "Name": "Braintrust - United States Dollar"
+  },
+  {
+    "Ticker": "X:BTSEUSD",
+    "Name": "BTSE - United States Dollar"
+  },
+  {
+    "Ticker": "X:BTTUSD",
+    "Name": "BitTorrent - United States Dollar"
+  },
+  {
+    "Ticker": "X:BUSDUSD",
+    "Name": "Binance USD - United States Dollar"
+  },
+  {
+    "Ticker": "X:BXNUSD",
+    "Name": "BXN - United States Dollar"
+  },
+  {
+    "Ticker": "X:C98USD",
+    "Name": "Coin98 - United States Dollar"
+  },
+  {
+    "Ticker": "X:CBETHUSD",
+    "Name": "Coinbase Wrapped Staked ETH - United States Dollar"
+  },
+  {
+    "Ticker": "X:CCDUSD",
+    "Name": "Concordium - United States Dollar"
+  },
+  {
+    "Ticker": "X:CELOUSD",
+    "Name": "Celo - United States Dollar"
+  },
+  {
+    "Ticker": "X:CELRUSD",
+    "Name": "Celer Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:CELUSD",
+    "Name": "Celsius - United States Dollar"
+  },
+  {
+    "Ticker": "X:CFGUSD",
+    "Name": "Centrifuge - United States Dollar"
+  },
+  {
+    "Ticker": "X:CGLDUSD",
+    "Name": "Celo - United States Dollar"
+  },
+  {
+    "Ticker": "X:CHEXUSD",
+    "Name": "CHEX - United States Dollar"
+  },
+  {
+    "Ticker": "X:CHREUR",
+    "Name": "Arcblock - Euro"
+  },
+  {
+    "Ticker": "X:CHRUSD",
+    "Name": "Chromia - United States Dollar"
+  },
+  {
+    "Ticker": "X:CHSBUSD",
+    "Name": "SwissBorg - United States Dollar"
+  },
+  {
+    "Ticker": "X:CHZUSD",
+    "Name": "Chiliz - United States Dollar"
+  },
+  {
+    "Ticker": "X:CLOUDUSD",
+    "Name": "Cloud - United States Dollar"
+  },
+  {
+    "Ticker": "X:CLOUSD",
+    "Name": "Callisto - United States Dollar"
+  },
+  {
+    "Ticker": "X:CLVUSD",
+    "Name": "Clover Finance - United States Dollar"
+  },
+  {
+    "Ticker": "X:CNHTUSD",
+    "Name": "CNH Tether - United States Dollar"
+  },
+  {
+    "Ticker": "X:COMPUSD",
+    "Name": "Compound - United States Dollar"
+  },
+  {
+    "Ticker": "X:COQUSD",
+    "Name": "Coq Inu - United States Dollar"
+  },
+  {
+    "Ticker": "X:CORECHAINUSD",
+    "Name": "Core - United States Dollar"
+  },
+  {
+    "Ticker": "X:COREUMUSD",
+    "Name": "Coreum - United States Dollar"
+  },
+  {
+    "Ticker": "X:COTIUSD",
+    "Name": "Coti - United States Dollar"
+  },
+  {
+    "Ticker": "X:COVALUSD",
+    "Name": "Circuits of Value - United States Dollar"
+  },
+  {
+    "Ticker": "X:COWUSD",
+    "Name": "Cow Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:CPOOLUSD",
+    "Name": "Clearpool - United States Dollar"
+  },
+  {
+    "Ticker": "X:CQTUSD",
+    "Name": "Covalent Query Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:CROUSD",
+    "Name": "Crypto.com - United States Dollar"
+  },
+  {
+    "Ticker": "X:CRPTUSD",
+    "Name": "Crypterium - United States Dollar"
+  },
+  {
+    "Ticker": "X:CRVUSD",
+    "Name": "Curve DAO Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:CSMUSD",
+    "Name": "Consentium - United States Dollar"
+  },
+  {
+    "Ticker": "X:CSPRUSD",
+    "Name": "Casper Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:CTSIUSD",
+    "Name": "Cartesi - United States Dollar"
+  },
+  {
+    "Ticker": "X:CTXUSD",
+    "Name": "Cryptex Finance - United States Dollar"
+  },
+  {
+    "Ticker": "X:CVCUSD",
+    "Name": "Civic - United States Dollar"
+  },
+  {
+    "Ticker": "X:CVXUSD",
+    "Name": "Convex Finance - United States Dollar"
+  },
+  {
+    "Ticker": "X:CXTUSD",
+    "Name": "Covalent X Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:DAIUSD",
+    "Name": "Dai - United States Dollar"
+  },
+  {
+    "Ticker": "X:DARUSD",
+    "Name": "Mines of Dalarnia - United States Dollar"
+  },
+  {
+    "Ticker": "X:DASHUSD",
+    "Name": "Dash - United States Dollar"
+  },
+  {
+    "Ticker": "X:DBRUSD",
+    "Name": "deBridge - United States Dollar"
+  },
+  {
+    "Ticker": "X:DDXUSD",
+    "Name": "DerivaDAO - United States Dollar"
+  },
+  {
+    "Ticker": "X:DEGENUSD",
+    "Name": "Degen - United States Dollar"
+  },
+  {
+    "Ticker": "X:DENTUSD",
+    "Name": "Dent - United States Dollar"
+  },
+  {
+    "Ticker": "X:DESOUSD",
+    "Name": "Decentralized Social - United States Dollar"
+  },
+  {
+    "Ticker": "X:DEXTUSD",
+    "Name": "DEXTools - United States Dollar"
+  },
+  {
+    "Ticker": "X:DGBUSD",
+    "Name": "DigiByte - United States Dollar"
+  },
+  {
+    "Ticker": "X:DIAEUR",
+    "Name": "DIA - Euro"
+  },
+  {
+    "Ticker": "X:DIAUSD",
+    "Name": "DIA - United States Dollar"
+  },
+  {
+    "Ticker": "X:DIMOUSD",
+    "Name": "Dimo - United States Dollar"
+  },
+  {
+    "Ticker": "X:DNTUSD",
+    "Name": "district0x - United States Dollar"
+  },
+  {
+    "Ticker": "X:DNYUSD",
+    "Name": "District0x - United States Dollar"
+  },
+  {
+    "Ticker": "X:DOGEUSD",
+    "Name": "Dogecoin - United States Dollar"
+  },
+  {
+    "Ticker": "X:DOPUSD",
+    "Name": "Data Ownership Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:DORAUSD",
+    "Name": "Dora - United States Dollar"
+  },
+  {
+    "Ticker": "X:DOTUSD",
+    "Name": "Polkadot - United States Dollar"
+  },
+  {
+    "Ticker": "X:DREPUSD",
+    "Name": "Drep - United States Dollar"
+  },
+  {
+    "Ticker": "X:DRIFTUSD",
+    "Name": "Drift Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:DRVUSD",
+    "Name": "DRV - United States Dollar"
+  },
+  {
+    "Ticker": "X:DSHUSD",
+    "Name": "Dash - United States Dollar"
+  },
+  {
+    "Ticker": "X:DUSKUSD",
+    "Name": "Dusk Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:DVFUSD",
+    "Name": "DeversiFi - United States Dollar"
+  },
+  {
+    "Ticker": "X:DYDXEUR",
+    "Name": "dYdX - Euro"
+  },
+  {
+    "Ticker": "X:DYDXUSD",
+    "Name": "dYdX - United States Dollar"
+  },
+  {
+    "Ticker": "X:DYMUSD",
+    "Name": "Dymension - United States Dollar"
+  },
+  {
+    "Ticker": "X:DYPUSD",
+    "Name": "DeFi Yield Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:EDOUSD",
+    "Name": "Eidoo - United States Dollar"
+  },
+  {
+    "Ticker": "X:EGLDUSD",
+    "Name": "Elrond - United States Dollar"
+  },
+  {
+    "Ticker": "X:EIGENUSD",
+    "Name": "Eigenlayer - United States Dollar"
+  },
+  {
+    "Ticker": "X:ELAUSD",
+    "Name": "Elastos - United States Dollar"
+  },
+  {
+    "Ticker": "X:ENAUSD",
+    "Name": "Ethena - United States Dollar"
+  },
+  {
+    "Ticker": "X:ENJUSD",
+    "Name": "Enjin Coin - United States Dollar"
+  },
+  {
+    "Ticker": "X:ENSUSD",
+    "Name": "Ethereum Name Service - United States Dollar"
+  },
+  {
+    "Ticker": "X:EOSUSD",
+    "Name": "EOS - United States Dollar"
+  },
+  {
+    "Ticker": "X:ERNUSD",
+    "Name": "Ethernity Chain - United States Dollar"
+  },
+  {
+    "Ticker": "X:ETCUSD",
+    "Name": "Ethereum Classic - United States Dollar"
+  },
+  {
+    "Ticker": "X:ETH2XUSD",
+    "Name": "Coop Ethereum 2x Index - United States Dollar"
+  },
+  {
+    "Ticker": "X:ETHAUD",
+    "Name": "Ethereum - Australian dollar"
+  },
+  {
+    "Ticker": "X:ETHBTC",
+    "Name": "Ethereum - Bitcoin"
+  },
+  {
+    "Ticker": "X:ETHFIUSD",
+    "Name": "Ether.fi - United States Dollar"
+  },
+  {
+    "Ticker": "X:ETHPYUSD",
+    "Name": "Etherpay - United States Dollar"
+  },
+  {
+    "Ticker": "X:ETHUSD",
+    "Name": "Ethereum - United States Dollar"
+  },
+  {
+    "Ticker": "X:ETHWUSD",
+    "Name": "EthereumPoW - United States Dollar"
+  },
+  {
+    "Ticker": "X:ETPUSD",
+    "Name": "Metaverse - United States Dollar"
+  },
+  {
+    "Ticker": "X:EULUSD",
+    "Name": "Euler - United States Dollar"
+  },
+  {
+    "Ticker": "X:EURCUSD",
+    "Name": "EURC - United States Dollar"
+  },
+  {
+    "Ticker": "X:EURQUSD",
+    "Name": "EURQ - United States Dollar"
+  },
+  {
+    "Ticker": "X:EURRUSD",
+    "Name": "EURR - United States Dollar"
+  },
+  {
+    "Ticker": "X:EURTUSD",
+    "Name": "Euro Tether - United States Dollar"
+  },
+  {
+    "Ticker": "X:EUTUSD",
+    "Name": "EUT - United States Dollar"
+  },
+  {
+    "Ticker": "X:EWTUSD",
+    "Name": "Energy Web - United States Dollar"
+  },
+  {
+    "Ticker": "X:FARMUSD",
+    "Name": "Harvest Finance - United States Dollar"
+  },
+  {
+    "Ticker": "X:FCLUSD",
+    "Name": "Fractal - United States Dollar"
+  },
+  {
+    "Ticker": "X:FETUSD",
+    "Name": "Fetch.ai - United States Dollar"
+  },
+  {
+    "Ticker": "X:FIDAUSD",
+    "Name": "Bonfida - United States Dollar"
+  },
+  {
+    "Ticker": "X:FILUSD",
+    "Name": "Filecoin - United States Dollar"
+  },
+  {
+    "Ticker": "X:FISUSD",
+    "Name": "StaFi Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:FLOKIUSD",
+    "Name": "FLOKI - United States Dollar"
+  },
+  {
+    "Ticker": "X:FLOWUSD",
+    "Name": "Flow - United States Dollar"
+  },
+  {
+    "Ticker": "X:FLRUSD",
+    "Name": "Flare - United States Dollar"
+  },
+  {
+    "Ticker": "X:FORTHUSD",
+    "Name": "Ampleforth Governance Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:FORTUSD",
+    "Name": "Forta - United States Dollar"
+  },
+  {
+    "Ticker": "X:FOXUSD",
+    "Name": "Shapeshift FOX Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:FTMUSD",
+    "Name": "Fantom - United States Dollar"
+  },
+  {
+    "Ticker": "X:FTTUSD",
+    "Name": "FTX Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:FUNUSD",
+    "Name": "FunFair - United States Dollar"
+  },
+  {
+    "Ticker": "X:FWOGUSD",
+    "Name": "FWOG - United States Dollar"
+  },
+  {
+    "Ticker": "X:FXSUSD",
+    "Name": "Frax Share - United States Dollar"
+  },
+  {
+    "Ticker": "X:FXUSD",
+    "Name": "Function X - United States Dollar"
+  },
+  {
+    "Ticker": "X:GALAUSD",
+    "Name": "Gala Games - United States Dollar"
+  },
+  {
+    "Ticker": "X:GALUSD",
+    "Name": "Galxe - United States Dollar"
+  },
+  {
+    "Ticker": "X:GARIUSD",
+    "Name": "Gari Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:GFIUSD",
+    "Name": "Goldfinch - United States Dollar"
+  },
+  {
+    "Ticker": "X:GHSTUSD",
+    "Name": "Aavegotchi - United States Dollar"
+  },
+  {
+    "Ticker": "X:GIGAUSD",
+    "Name": "Gigachad - United States Dollar"
+  },
+  {
+    "Ticker": "X:GLMRUSD",
+    "Name": "Moonbeam - United States Dollar"
+  },
+  {
+    "Ticker": "X:GLMUSD",
+    "Name": "Golem - United States Dollar"
+  },
+  {
+    "Ticker": "X:GMMTUSD",
+    "Name": "Giant Mammoth - United States Dollar"
+  },
+  {
+    "Ticker": "X:GMTUSD",
+    "Name": "GMT - United States Dollar"
+  },
+  {
+    "Ticker": "X:GMXUSD",
+    "Name": "GMX - United States Dollar"
+  },
+  {
+    "Ticker": "X:GNOUSD",
+    "Name": "Gnosis - United States Dollar"
+  },
+  {
+    "Ticker": "X:GNTUSD",
+    "Name": "Golem - United States Dollar"
+  },
+  {
+    "Ticker": "X:GOATUSD",
+    "Name": "GOAT - United States Dollar"
+  },
+  {
+    "Ticker": "X:GODSUSD",
+    "Name": "Gods Unchained - United States Dollar"
+  },
+  {
+    "Ticker": "X:GOMININGUSD",
+    "Name": "GoMining - United States Dollar"
+  },
+  {
+    "Ticker": "X:GRTUSD",
+    "Name": "The Graph - United States Dollar"
+  },
+  {
+    "Ticker": "X:GSTUSD",
+    "Name": "GrEarn - United States Dollar"
+  },
+  {
+    "Ticker": "X:GTCUSD",
+    "Name": "Gitcoin - United States Dollar"
+  },
+  {
+    "Ticker": "X:GTXUSD",
+    "Name": "Global Trading Xenocurrency - United States Dollar"
+  },
+  {
+    "Ticker": "X:GUSD",
+    "Name": "Gravity - United States Dollar"
+  },
+  {
+    "Ticker": "X:GUSDUSD",
+    "Name": "Gemini Dollar - United States Dollar"
+  },
+  {
+    "Ticker": "X:GYENUSD",
+    "Name": "GYEN - United States Dollar"
+  },
+  {
+    "Ticker": "X:HBARUSD",
+    "Name": "Hedera - United States Dollar"
+  },
+  {
+    "Ticker": "X:HDXUSD",
+    "Name": "Hydration - United States Dollar"
+  },
+  {
+    "Ticker": "X:HFTUSD",
+    "Name": "Hashflow - United States Dollar"
+  },
+  {
+    "Ticker": "X:HIGHUSD",
+    "Name": "Highstreet - United States Dollar"
+  },
+  {
+    "Ticker": "X:HILSVUSD",
+    "Name": "Airport Hotel SV - United States Dollar"
+  },
+  {
+    "Ticker": "X:HIXUSD",
+    "Name": "HIX - United States Dollar"
+  },
+  {
+    "Ticker": "X:HMSTRUSD",
+    "Name": "Hamster Kombat - United States Dollar"
+  },
+  {
+    "Ticker": "X:HMTUSD",
+    "Name": "Human - United States Dollar"
+  },
+  {
+    "Ticker": "X:HNTUSD",
+    "Name": "Helium - United States Dollar"
+  },
+  {
+    "Ticker": "X:HONEYUSD",
+    "Name": "Hivemapper - United States Dollar"
+  },
+  {
+    "Ticker": "X:HOPRUSD",
+    "Name": "Hopr Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:HTXDAOUSD",
+    "Name": "HTXDAO - United States Dollar"
+  },
+  {
+    "Ticker": "X:HTXUSD",
+    "Name": "HTX DAO - United States Dollar"
+  },
+  {
+    "Ticker": "X:ICEUSD",
+    "Name": "Popsicle Finance - United States Dollar"
+  },
+  {
+    "Ticker": "X:ICPUSD",
+    "Name": "Internet Computer - United States Dollar"
+  },
+  {
+    "Ticker": "X:ICXUSD",
+    "Name": "Icon - United States Dollar"
+  },
+  {
+    "Ticker": "X:IDEXUSD",
+    "Name": "IDEX - United States Dollar"
+  },
+  {
+    "Ticker": "X:IDXUSD",
+    "Name": "IDX - United States Dollar"
+  },
+  {
+    "Ticker": "X:ILVUSD",
+    "Name": "Illuvium - United States Dollar"
+  },
+  {
+    "Ticker": "X:IMXUSD",
+    "Name": "Immutable X - United States Dollar"
+  },
+  {
+    "Ticker": "X:INDEXUSD",
+    "Name": "Index Cooperative - United States Dollar"
+  },
+  {
+    "Ticker": "X:INJUSD",
+    "Name": "Injective - United States Dollar"
+  },
+  {
+    "Ticker": "X:INTRUSD",
+    "Name": "Interlay - United States Dollar"
+  },
+  {
+    "Ticker": "X:INVUSD",
+    "Name": "Inverse Finance - United States Dollar"
+  },
+  {
+    "Ticker": "X:IOTUSD",
+    "Name": "IOTA - United States Dollar"
+  },
+  {
+    "Ticker": "X:IOTXUSD",
+    "Name": "IoTeX - United States Dollar"
+  },
+  {
+    "Ticker": "X:IOUSD",
+    "Name": "Io.Net - United States Dollar"
+  },
+  {
+    "Ticker": "X:JASMYUSD",
+    "Name": "JasmyCoin - United States Dollar"
+  },
+  {
+    "Ticker": "X:JSTUSD",
+    "Name": "JUST - United States Dollar"
+  },
+  {
+    "Ticker": "X:JTOUSD",
+    "Name": "Jito - United States Dollar"
+  },
+  {
+    "Ticker": "X:JUNOUSD",
+    "Name": "JUNO - United States Dollar"
+  },
+  {
+    "Ticker": "X:JUPUSD",
+    "Name": "Jupiter - United States Dollar"
+  },
+  {
+    "Ticker": "X:JUSTICEUSD",
+    "Name": "AssangeDAO - United States Dollar"
+  },
+  {
+    "Ticker": "X:JXXUSD",
+    "Name": "JXX - United States Dollar"
+  },
+  {
+    "Ticker": "X:KANUSD",
+    "Name": "BitKan - United States Dollar"
+  },
+  {
+    "Ticker": "X:KARATEUSD",
+    "Name": "KARATE - United States Dollar"
+  },
+  {
+    "Ticker": "X:KARRATUSD",
+    "Name": "Karrat - United States Dollar"
+  },
+  {
+    "Ticker": "X:KARUSD",
+    "Name": "Karura - United States Dollar"
+  },
+  {
+    "Ticker": "X:KASUSD",
+    "Name": "KAS - United States Dollar"
+  },
+  {
+    "Ticker": "X:KAVAUSD",
+    "Name": "Kava - United States Dollar"
+  },
+  {
+    "Ticker": "X:KEEPUSD",
+    "Name": "Keep Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:KEYUSD",
+    "Name": "SelfKey - United States Dollar"
+  },
+  {
+    "Ticker": "X:KILTUSD",
+    "Name": "KILT Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:KINTUSD",
+    "Name": "Kintsugi - United States Dollar"
+  },
+  {
+    "Ticker": "X:KINUSD",
+    "Name": "Kin - United States Dollar"
+  },
+  {
+    "Ticker": "X:KMNOUSD",
+    "Name": "Kamino - United States Dollar"
+  },
+  {
+    "Ticker": "X:KNCUSD",
+    "Name": "Kyber Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:KP3RUSD",
+    "Name": "Keep3rV1 - United States Dollar"
+  },
+  {
+    "Ticker": "X:KRLUSD",
+    "Name": "Kryll - United States Dollar"
+  },
+  {
+    "Ticker": "X:KSMUSD",
+    "Name": "Kusama - United States Dollar"
+  },
+  {
+    "Ticker": "X:KUJIUSD",
+    "Name": "Kujira - United States Dollar"
+  },
+  {
+    "Ticker": "X:L3USD",
+    "Name": "Layer3 - United States Dollar"
+  },
+  {
+    "Ticker": "X:LCXUSD",
+    "Name": "LCX - United States Dollar"
+  },
+  {
+    "Ticker": "X:LDOUSD",
+    "Name": "Lido DAO - United States Dollar"
+  },
+  {
+    "Ticker": "X:LEOUSD",
+    "Name": "LEO Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:LIFIIIUSD",
+    "Name": "LIF3 - United States Dollar"
+  },
+  {
+    "Ticker": "X:LINKUSD",
+    "Name": "Chainlink - United States Dollar"
+  },
+  {
+    "Ticker": "X:LITUSD",
+    "Name": "Litentry - United States Dollar"
+  },
+  {
+    "Ticker": "X:LMWRUSD",
+    "Name": "LimeWire - United States Dollar"
+  },
+  {
+    "Ticker": "X:LOCKINUSD",
+    "Name": "LOCKIN - United States Dollar"
+  },
+  {
+    "Ticker": "X:LOKAUSD",
+    "Name": "League of Kingdoms Arena - United States Dollar"
+  },
+  {
+    "Ticker": "X:LOOMUSD",
+    "Name": "Loom - United States Dollar"
+  },
+  {
+    "Ticker": "X:LPTUSD",
+    "Name": "Livepeer - United States Dollar"
+  },
+  {
+    "Ticker": "X:LQTYUSD",
+    "Name": "Liquity - United States Dollar"
+  },
+  {
+    "Ticker": "X:LRCUSD",
+    "Name": "Loopring - United States Dollar"
+  },
+  {
+    "Ticker": "X:LRDSUSD",
+    "Name": "Blocklords - United States Dollar"
+  },
+  {
+    "Ticker": "X:LSETHUSD",
+    "Name": "Liquid Staked ETH - United States Dollar"
+  },
+  {
+    "Ticker": "X:LSKUSD",
+    "Name": "Lisk - United States Dollar"
+  },
+  {
+    "Ticker": "X:LTCAUD",
+    "Name": "Litecoin - Australian Dollar"
+  },
+  {
+    "Ticker": "X:LTCBTC",
+    "Name": "Litecoin - Bitcoin"
+  },
+  {
+    "Ticker": "X:LTCEUR",
+    "Name": "Litecoin - Euro"
+  },
+  {
+    "Ticker": "X:LTCUSD",
+    "Name": "Litecoin - United States Dollar"
+  },
+  {
+    "Ticker": "X:LUNA2USD",
+    "Name": "Luna 2.0 - United States Dollar"
+  },
+  {
+    "Ticker": "X:LUNAUSD",
+    "Name": "Terra - United States Dollar"
+  },
+  {
+    "Ticker": "X:LYMUSD",
+    "Name": "Lympo - United States Dollar"
+  },
+  {
+    "Ticker": "X:MAGICUSD",
+    "Name": "Treasure - United States Dollar"
+  },
+  {
+    "Ticker": "X:MANAUSD",
+    "Name": "Decentraland - United States Dollar"
+  },
+  {
+    "Ticker": "X:MANEKIUSD",
+    "Name": "MANEKI - United States Dollar"
+  },
+  {
+    "Ticker": "X:MASKUSD",
+    "Name": "Mask Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:MATHUSD",
+    "Name": "MathChain - United States Dollar"
+  },
+  {
+    "Ticker": "X:MATICUSD",
+    "Name": "Polygon - United States Dollar"
+  },
+  {
+    "Ticker": "X:MCO2USD",
+    "Name": "Moss Carbon Credit - United States Dollar"
+  },
+  {
+    "Ticker": "X:MCUSD",
+    "Name": "Merit Circle - United States Dollar"
+  },
+  {
+    "Ticker": "X:MDTUSD",
+    "Name": "Measurable Data Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:MEDIAUSD",
+    "Name": "Media Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:MELANIAUSD",
+    "Name": "MELANIA - United States Dollar"
+  },
+  {
+    "Ticker": "X:MEMEUSD",
+    "Name": "Memeverse - United States Dollar"
+  },
+  {
+    "Ticker": "X:METISUSD",
+    "Name": "Metis - United States Dollar"
+  },
+  {
+    "Ticker": "X:MEUSD",
+    "Name": "Magic Eden - United States Dollar"
+  },
+  {
+    "Ticker": "X:MEWUSD",
+    "Name": "Mew - United States Dollar"
+  },
+  {
+    "Ticker": "X:MICHIUSD",
+    "Name": "MICHI - United States Dollar"
+  },
+  {
+    "Ticker": "X:MIMUSD",
+    "Name": "MIM - United States Dollar"
+  },
+  {
+    "Ticker": "X:MINAUSD",
+    "Name": "Mina Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:MIRUSD",
+    "Name": "Mirror Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:MKRUSD",
+    "Name": "Maker - United States Dollar"
+  },
+  {
+    "Ticker": "X:MLNUSD",
+    "Name": "Melon - United States Dollar"
+  },
+  {
+    "Ticker": "X:MNAUSD",
+    "Name": "MNA Coin - United States Dollar"
+  },
+  {
+    "Ticker": "X:MNDEUSD",
+    "Name": "Marinade - United States Dollar"
+  },
+  {
+    "Ticker": "X:MNGOUSD",
+    "Name": "Mango - United States Dollar"
+  },
+  {
+    "Ticker": "X:MNTUSD",
+    "Name": "Mantle - United States Dollar"
+  },
+  {
+    "Ticker": "X:MOBILEUSD",
+    "Name": "Helium Mobile - United States Dollar"
+  },
+  {
+    "Ticker": "X:MOBUSD",
+    "Name": "MobileCoin - United States Dollar"
+  },
+  {
+    "Ticker": "X:MODEUSD",
+    "Name": "Mode Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:MOGUSD",
+    "Name": "Mog Coin - United States Dollar"
+  },
+  {
+    "Ticker": "X:MONAUSD",
+    "Name": "Monavale - United States Dollar"
+  },
+  {
+    "Ticker": "X:MOODENGUSD",
+    "Name": "Moo Deng - United States Dollar"
+  },
+  {
+    "Ticker": "X:MOONUSD",
+    "Name": "Dog on Moon - United States Dollar"
+  },
+  {
+    "Ticker": "X:MORPHOUSD",
+    "Name": "MORPHO - United States Dollar"
+  },
+  {
+    "Ticker": "X:MOVEUSD",
+    "Name": "Movement - United States Dollar"
+  },
+  {
+    "Ticker": "X:MOVRUSD",
+    "Name": "Moonriver - United States Dollar"
+  },
+  {
+    "Ticker": "X:MPCUSD",
+    "Name": "Partisia Blockchain - United States Dollar"
+  },
+  {
+    "Ticker": "X:MPLUSD",
+    "Name": "Maple - United States Dollar"
+  },
+  {
+    "Ticker": "X:MSOLUSD",
+    "Name": "Marinade Staked Sol - United States Dollar"
+  },
+  {
+    "Ticker": "X:MTLUSD",
+    "Name": "Metal - United States Dollar"
+  },
+  {
+    "Ticker": "X:MULTIUSD",
+    "Name": "Multichain - United States Dollar"
+  },
+  {
+    "Ticker": "X:MUSDUSD",
+    "Name": "mStable USD - United States Dollar"
+  },
+  {
+    "Ticker": "X:MUSEUSD",
+    "Name": "Muse Dao - United States Dollar"
+  },
+  {
+    "Ticker": "X:MVUSD",
+    "Name": "GensoKishi Metaverse - United States Dollar"
+  },
+  {
+    "Ticker": "X:MXCUSD",
+    "Name": "Moonchain - United States Dollar"
+  },
+  {
+    "Ticker": "X:MXNTUSD",
+    "Name": "Tether MXNt - United States Dollar"
+  },
+  {
+    "Ticker": "X:NANOUSD",
+    "Name": "Nano - United States Dollar"
+  },
+  {
+    "Ticker": "X:NCTUSD",
+    "Name": "PolySwarm - United States Dollar"
+  },
+  {
+    "Ticker": "X:NEARUSD",
+    "Name": "NEAR Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:NEIROUSD",
+    "Name": "NEIRO - United States Dollar"
+  },
+  {
+    "Ticker": "X:NEONUSD",
+    "Name": "Neon - United States Dollar"
+  },
+  {
+    "Ticker": "X:NEOUSD",
+    "Name": "Neo - United States Dollar"
+  },
+  {
+    "Ticker": "X:NESTUSD",
+    "Name": "Nest Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:NEXOUSD",
+    "Name": "Nexo - United States Dollar"
+  },
+  {
+    "Ticker": "X:NKNUSD",
+    "Name": "NKN - United States Dollar"
+  },
+  {
+    "Ticker": "X:NMRUSD",
+    "Name": "Numeraire - United States Dollar"
+  },
+  {
+    "Ticker": "X:NODLUSD",
+    "Name": "Nodle Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:NOSUSD",
+    "Name": "Nosana - United States Dollar"
+  },
+  {
+    "Ticker": "X:NOTUSD",
+    "Name": "Notcoin - United States Dollar"
+  },
+  {
+    "Ticker": "X:NTRNUSD",
+    "Name": "Neutron - United States Dollar"
+  },
+  {
+    "Ticker": "X:NUUSD",
+    "Name": "NuCypher - United States Dollar"
+  },
+  {
+    "Ticker": "X:NXRAUSD",
+    "Name": "NXRA - United States Dollar"
+  },
+  {
+    "Ticker": "X:NYMUSD",
+    "Name": "Nym - United States Dollar"
+  },
+  {
+    "Ticker": "X:OCEANUSD",
+    "Name": "Ocean Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:OGNUSD",
+    "Name": "Origin Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:OMGUSD",
+    "Name": "OmiseGO - United States Dollar"
+  },
+  {
+    "Ticker": "X:OMNIUSD",
+    "Name": "Omni Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:OMNUSD",
+    "Name": "OMN - United States Dollar"
+  },
+  {
+    "Ticker": "X:ONDOUSD",
+    "Name": "Ondo - United States Dollar"
+  },
+  {
+    "Ticker": "X:OOKIUSD",
+    "Name": "Ooki Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:OPUSD",
+    "Name": "Optimism - United States Dollar"
+  },
+  {
+    "Ticker": "X:OPXUSD",
+    "Name": "OPX Finance - United States Dollar"
+  },
+  {
+    "Ticker": "X:ORCAUER",
+    "Name": "Orca - Euro"
+  },
+  {
+    "Ticker": "X:ORCAUSD",
+    "Name": "Orca - United States Dollar"
+  },
+  {
+    "Ticker": "X:ORNUSD",
+    "Name": "Orion Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:OSMOUSD",
+    "Name": "Osmosis - United States Dollar"
+  },
+  {
+    "Ticker": "X:OXTUSD",
+    "Name": "Orchid - United States Dollar"
+  },
+  {
+    "Ticker": "X:OXYUSD",
+    "Name": "Oxygen - United States Dollar"
+  },
+  {
+    "Ticker": "X:PARSIQUSD",
+    "Name": "Parsiq - United States Dollar"
+  },
+  {
+    "Ticker": "X:PASUSD",
+    "Name": "Pascal - United States Dollar"
+  },
+  {
+    "Ticker": "X:PAXGUSD",
+    "Name": "PAX Gold - United States Dollar"
+  },
+  {
+    "Ticker": "X:PAXUSD",
+    "Name": "Paxos Standard Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:PDAUSD",
+    "Name": "PlayDapp - United States Dollar"
+  },
+  {
+    "Ticker": "X:PENDLEUSD",
+    "Name": "Pendle - United States Dollar"
+  },
+  {
+    "Ticker": "X:PEPEUSD",
+    "Name": "Pepe - United States Dollar"
+  },
+  {
+    "Ticker": "X:PERPUSD",
+    "Name": "Perpetual Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:PHAUSD",
+    "Name": "PHALA - United States Dollar"
+  },
+  {
+    "Ticker": "X:PIRATEUSD",
+    "Name": "Pirate Nation - United States Dollar"
+  },
+  {
+    "Ticker": "X:PLANETSUSD",
+    "Name": "PlanetWatch - United States Dollar"
+  },
+  {
+    "Ticker": "X:PLAUSD",
+    "Name": "PlayDapp - United States Dollar"
+  },
+  {
+    "Ticker": "X:PLUUSD",
+    "Name": "Pluton - United States Dollar"
+  },
+  {
+    "Ticker": "X:PNGUSD",
+    "Name": "Pangolin - United States Dollar"
+  },
+  {
+    "Ticker": "X:PNKUSD",
+    "Name": "Kleros - United States Dollar"
+  },
+  {
+    "Ticker": "X:PNUTUSD",
+    "Name": "Peanut The Squirrel - United States Dollar"
+  },
+  {
+    "Ticker": "X:POLISUSD",
+    "Name": "Polis - United States Dollar"
+  },
+  {
+    "Ticker": "X:POLSUSD",
+    "Name": "Polkastarter - United States Dollar"
+  },
+  {
+    "Ticker": "X:POLUSD",
+    "Name": "POL (ex-MATIC) - United States Dollar"
+  },
+  {
+    "Ticker": "X:POLYUSD",
+    "Name": "Polymath - United States Dollar"
+  },
+  {
+    "Ticker": "X:PONDUSD",
+    "Name": "Marlin - United States Dollar"
+  },
+  {
+    "Ticker": "X:PONKEUSD",
+    "Name": "PONKE - United States Dollar"
+  },
+  {
+    "Ticker": "X:POPCATUSD",
+    "Name": "Popcat - United States Dollar"
+  },
+  {
+    "Ticker": "X:PORTALUSD",
+    "Name": "Portal - United States Dollar"
+  },
+  {
+    "Ticker": "X:POWRUSD",
+    "Name": "Powerledger - United States Dollar"
+  },
+  {
+    "Ticker": "X:PRCLUSD",
+    "Name": "Parcl - United States Dollar"
+  },
+  {
+    "Ticker": "X:PRIMEUSD",
+    "Name": "Prime - United States Dollar"
+  },
+  {
+    "Ticker": "X:PROUSD",
+    "Name": "Propy - United States Dollar"
+  },
+  {
+    "Ticker": "X:PRQUSD",
+    "Name": "PARSIQ - United States Dollar"
+  },
+  {
+    "Ticker": "X:PSTAKEUSD",
+    "Name": "pSTAKE Finance - United States Dollar"
+  },
+  {
+    "Ticker": "X:PUFFERUSD",
+    "Name": "Puffer - United States Dollar"
+  },
+  {
+    "Ticker": "X:PUNDIXUSD",
+    "Name": "Pundi X (New) - United States Dollar"
+  },
+  {
+    "Ticker": "X:PYRUSD",
+    "Name": "Vulcan Forged PYR - United States Dollar"
+  },
+  {
+    "Ticker": "X:PYTHUSD",
+    "Name": "Pyth Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:PYUSDUSD",
+    "Name": "PayPal USD - United States Dollar"
+  },
+  {
+    "Ticker": "X:QIUSD",
+    "Name": "BENQI - United States Dollar"
+  },
+  {
+    "Ticker": "X:QNTUSD",
+    "Name": "Quant - United States Dollar"
+  },
+  {
+    "Ticker": "X:QRDOUSD",
+    "Name": "Qredo - United States Dollar"
+  },
+  {
+    "Ticker": "X:QSPUSD",
+    "Name": "Quantstamp - United States Dollar"
+  },
+  {
+    "Ticker": "X:QTFUSD",
+    "Name": "Quantfury Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:QTMUSD",
+    "Name": "Quantreum - United States Dollar"
+  },
+  {
+    "Ticker": "X:QTUMUSD",
+    "Name": "Quantum - United States Dollar"
+  },
+  {
+    "Ticker": "X:QUICKUSD",
+    "Name": "QuickSwap - United States Dollar"
+  },
+  {
+    "Ticker": "X:RADUSD",
+    "Name": "Radworks - United States Dollar"
+  },
+  {
+    "Ticker": "X:RAIUSD",
+    "Name": "Rai Reflex Index - United States Dollar"
+  },
+  {
+    "Ticker": "X:RAREUSD",
+    "Name": "SuperRare - United States Dollar"
+  },
+  {
+    "Ticker": "X:RARIEUR",
+    "Name": "Arcblock - Euro"
+  },
+  {
+    "Ticker": "X:RARIUSD",
+    "Name": "Rarible - United States Dollar"
+  },
+  {
+    "Ticker": "X:RAYUSD",
+    "Name": "Raydium - United States Dollar"
+  },
+  {
+    "Ticker": "X:RBCUSD",
+    "Name": "Ruby Currency - United States Dollar"
+  },
+  {
+    "Ticker": "X:RBNUSD",
+    "Name": "Ribbon Finance - United States Dollar"
+  },
+  {
+    "Ticker": "X:REEFUSD",
+    "Name": "Reef - United States Dollar"
+  },
+  {
+    "Ticker": "X:RENDERUSD",
+    "Name": "Render - United States Dollar"
+  },
+  {
+    "Ticker": "X:RENUSD",
+    "Name": "Ren - United States Dollar"
+  },
+  {
+    "Ticker": "X:REPUSD",
+    "Name": "Augur - United States Dollar"
+  },
+  {
+    "Ticker": "X:REPV2USD",
+    "Name": "Augur v2 - United States Dollar"
+  },
+  {
+    "Ticker": "X:REQUSD",
+    "Name": "Request - United States Dollar"
+  },
+  {
+    "Ticker": "X:REZUSD",
+    "Name": "Renzo - United States Dollar"
+  },
+  {
+    "Ticker": "X:RGTUSD",
+    "Name": "Rari Governance Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:RLCUSD",
+    "Name": "iExec - United States Dollar"
+  },
+  {
+    "Ticker": "X:RLUSDUSD",
+    "Name": "RLUSD - United States Dollar"
+  },
+  {
+    "Ticker": "X:RLYUSD",
+    "Name": "Rally - United States Dollar"
+  },
+  {
+    "Ticker": "X:RNDRUSD",
+    "Name": "Render Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:RONINUSD",
+    "Name": "Ronin - United States Dollar"
+  },
+  {
+    "Ticker": "X:ROOKUSD",
+    "Name": "Rook - United States Dollar"
+  },
+  {
+    "Ticker": "X:ROSEUSD",
+    "Name": "Oasis Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:RPLUSD",
+    "Name": "Rocket Pool - United States Dollar"
+  },
+  {
+    "Ticker": "X:RRTUSD",
+    "Name": "Recovery Right - United States Dollar"
+  },
+  {
+    "Ticker": "X:RSRUSD",
+    "Name": "RSR - United States Dollar"
+  },
+  {
+    "Ticker": "X:RUNEUSD",
+    "Name": "Rune - United States Dollar"
+  },
+  {
+    "Ticker": "X:SAFEUSD",
+    "Name": "Safe - United States Dollar"
+  },
+  {
+    "Ticker": "X:SAGAUSD",
+    "Name": "Saga - United States Dollar"
+  },
+  {
+    "Ticker": "X:SAMOUSD",
+    "Name": "Samoyedcoin - United States Dollar"
+  },
+  {
+    "Ticker": "X:SANDUSD",
+    "Name": "The Sandbox - United States Dollar"
+  },
+  {
+    "Ticker": "X:SBRUSD",
+    "Name": "Saber - United States Dollar"
+  },
+  {
+    "Ticker": "X:SCROLLUSD",
+    "Name": "SCROLL - United States Dollar"
+  },
+  {
+    "Ticker": "X:SCRTUSD",
+    "Name": "Secret - United States Dollar"
+  },
+  {
+    "Ticker": "X:SCUSD",
+    "Name": "Siacoin - United States Dollar"
+  },
+  {
+    "Ticker": "X:SDNUSD",
+    "Name": "Shiden Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:SDUSD",
+    "Name": "Stader - United States Dollar"
+  },
+  {
+    "Ticker": "X:SEAMUSD",
+    "Name": "Seamless - United States Dollar"
+  },
+  {
+    "Ticker": "X:SEIEUR",
+    "Name": "Sei - Euro"
+  },
+  {
+    "Ticker": "X:SEIUSD",
+    "Name": "Sei - United States Dollar"
+  },
+  {
+    "Ticker": "X:SGBUSD",
+    "Name": "Songbird - United States Dollar"
+  },
+  {
+    "Ticker": "X:SHDWUSD",
+    "Name": "Shadow - United States Dollar"
+  },
+  {
+    "Ticker": "X:SHIBUSD",
+    "Name": "Shiba Inu - United States Dollar"
+  },
+  {
+    "Ticker": "X:SHPINGUSD",
+    "Name": "Shping - United States Dollar"
+  },
+  {
+    "Ticker": "X:SKLUSD",
+    "Name": "SKALE Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:SKYUSD",
+    "Name": "Sky - United States Dollar"
+  },
+  {
+    "Ticker": "X:SLPUSD",
+    "Name": "Smooth Love Potion - United States Dollar"
+  },
+  {
+    "Ticker": "X:SMTUSD",
+    "Name": "Swarm Markets - United States Dollar"
+  },
+  {
+    "Ticker": "X:SNTUSD",
+    "Name": "Status - United States Dollar"
+  },
+  {
+    "Ticker": "X:SNXUSD",
+    "Name": "Synthetix - United States Dollar"
+  },
+  {
+    "Ticker": "X:SOLUSD",
+    "Name": "Solana - United States Dollar"
+  },
+  {
+    "Ticker": "X:SPAUSD",
+    "Name": "Sperax - United States Dollar"
+  },
+  {
+    "Ticker": "X:SPECUSD",
+    "Name": "Spectral - United States Dollar"
+  },
+  {
+    "Ticker": "X:SPELLUSD",
+    "Name": "Spell Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:SPXUSD",
+    "Name": "SPX - United States Dollar"
+  },
+  {
+    "Ticker": "X:SRMUSD",
+    "Name": "Serum - United States Dollar"
+  },
+  {
+    "Ticker": "X:STEPUSD",
+    "Name": "Step Finance - United States Dollar"
+  },
+  {
+    "Ticker": "X:STGUSD",
+    "Name": "Stargate Finance - United States Dollar"
+  },
+  {
+    "Ticker": "X:STORJUSD",
+    "Name": "Storj - United States Dollar"
+  },
+  {
+    "Ticker": "X:STRDUSD",
+    "Name": "Stride - United States Dollar"
+  },
+  {
+    "Ticker": "X:STRKEUR",
+    "Name": "Starknet - Euro"
+  },
+  {
+    "Ticker": "X:STRKUSD",
+    "Name": "Starknet - United States Dollar"
+  },
+  {
+    "Ticker": "X:STXUSD",
+    "Name": "Stox - United States Dollar"
+  },
+  {
+    "Ticker": "X:SUIUSD",
+    "Name": "Sui - United States Dollar"
+  },
+  {
+    "Ticker": "X:SUKUUSD",
+    "Name": "SUKU - United States Dollar"
+  },
+  {
+    "Ticker": "X:SUNUSD",
+    "Name": "Sun Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:SUPERUSD",
+    "Name": "SuperVerse - United States Dollar"
+  },
+  {
+    "Ticker": "X:SUSHIUSD",
+    "Name": "Sushi - United States Dollar"
+  },
+  {
+    "Ticker": "X:SWEATUSD",
+    "Name": "SWEAT - United States Dollar"
+  },
+  {
+    "Ticker": "X:SWELLUSD",
+    "Name": "Swell - United States Dollar"
+  },
+  {
+    "Ticker": "X:SWFTCUSD",
+    "Name": "SwiftCoin - United States Dollar"
+  },
+  {
+    "Ticker": "X:SYLOUSD",
+    "Name": "Sylo - United States Dollar"
+  },
+  {
+    "Ticker": "X:SYNUSD",
+    "Name": "Synapse - United States Dollar"
+  },
+  {
+    "Ticker": "X:SYRUPUSD",
+    "Name": "Syrup - United States Dollar"
+  },
+  {
+    "Ticker": "X:TAIKOUSD",
+    "Name": "Taiko - United States Dollar"
+  },
+  {
+    "Ticker": "X:TAOUSD",
+    "Name": "Bittensor - United States Dollar"
+  },
+  {
+    "Ticker": "X:TBTCUSD",
+    "Name": "tBTC - United States Dollar"
+  },
+  {
+    "Ticker": "X:TEERUSD",
+    "Name": "Integritee - United States Dollar"
+  },
+  {
+    "Ticker": "X:THETAUSD",
+    "Name": "Theta - United States Dollar"
+  },
+  {
+    "Ticker": "X:TIAUSD",
+    "Name": "Celestia - United States Dollar"
+  },
+  {
+    "Ticker": "X:TIMEUSD",
+    "Name": "Chrono.tech - United States Dollar"
+  },
+  {
+    "Ticker": "X:TITAN1USD",
+    "Name": "TITAN1 - United States Dollar"
+  },
+  {
+    "Ticker": "X:TITAN2USD",
+    "Name": "TITAN2 - United States Dollar"
+  },
+  {
+    "Ticker": "X:TLMUSD",
+    "Name": "Alien Worlds - United States Dollar"
+  },
+  {
+    "Ticker": "X:TLOSUSD",
+    "Name": "Telos - United States Dollar"
+  },
+  {
+    "Ticker": "X:TNSRUSD",
+    "Name": "Tensor - United States Dollar"
+  },
+  {
+    "Ticker": "X:TOKENUSD",
+    "Name": "TokenFi - United States Dollar"
+  },
+  {
+    "Ticker": "X:TOKEUSD",
+    "Name": "Tokemak - United States Dollar"
+  },
+  {
+    "Ticker": "X:TOMIUSD",
+    "Name": "tomiNET - United States Dollar"
+  },
+  {
+    "Ticker": "X:TONEUSD",
+    "Name": "TE-FOOD - United States Dollar"
+  },
+  {
+    "Ticker": "X:TONUSD",
+    "Name": "Toncoin - United States Dollar"
+  },
+  {
+    "Ticker": "X:TRACUSD",
+    "Name": "OriginTrail - United States Dollar"
+  },
+  {
+    "Ticker": "X:TRADEUSD",
+    "Name": "Polytrade - United States Dollar"
+  },
+  {
+    "Ticker": "X:TRBUSD",
+    "Name": "Tellor - United States Dollar"
+  },
+  {
+    "Ticker": "X:TREMPUSD",
+    "Name": "Doland Tremp - United States Dollar"
+  },
+  {
+    "Ticker": "X:TRIBEUSD",
+    "Name": "Tribe - United States Dollar"
+  },
+  {
+    "Ticker": "X:TRUFUSD",
+    "Name": "Truflation - United States Dollar"
+  },
+  {
+    "Ticker": "X:TRUMPUSD",
+    "Name": "Official Trump - United States Dollar"
+  },
+  {
+    "Ticker": "X:TRUUSD",
+    "Name": "TrueFi - United States Dollar"
+  },
+  {
+    "Ticker": "X:TRXUSD",
+    "Name": "TRON - United States Dollar"
+  },
+  {
+    "Ticker": "X:TSDUSD",
+    "Name": "TrueUSD - United States Dollar"
+  },
+  {
+    "Ticker": "X:TURBOUSD",
+    "Name": "Turbo - United States Dollar"
+  },
+  {
+    "Ticker": "X:TUSD",
+    "Name": "Threshold - United States Dollar"
+  },
+  {
+    "Ticker": "X:TUSDEUR",
+    "Name": "TrueUSD - United States Dollar"
+  },
+  {
+    "Ticker": "X:TVKEUR",
+    "Name": "Virtua - Euro"
+  },
+  {
+    "Ticker": "X:TVKUSD",
+    "Name": "Virtua - United States Dollar"
+  },
+  {
+    "Ticker": "X:UDCUSD",
+    "Name": "USD Coin - United States Dollar"
+  },
+  {
+    "Ticker": "X:UMAUSD",
+    "Name": "UMA - United States Dollar"
+  },
+  {
+    "Ticker": "X:UNFIUSD",
+    "Name": "Unifi Protocol DAO - United States Dollar"
+  },
+  {
+    "Ticker": "X:UNIUSD",
+    "Name": "Uniswap - United States Dollar"
+  },
+  {
+    "Ticker": "X:UOSUSD",
+    "Name": "Ultra - United States Dollar"
+  },
+  {
+    "Ticker": "X:UPIUSD",
+    "Name": "Pawtocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:USDCUSD",
+    "Name": "USD Coin - United States Dollar"
+  },
+  {
+    "Ticker": "X:USDGUSD",
+    "Name": "USDG - United States Dollar"
+  },
+  {
+    "Ticker": "X:USDQUSD",
+    "Name": "USDQ - United States Dollar"
+  },
+  {
+    "Ticker": "X:USDRUSD",
+    "Name": "USDR - United States Dollar"
+  },
+  {
+    "Ticker": "X:USDSUSD",
+    "Name": "USDS - United States Dollar"
+  },
+  {
+    "Ticker": "X:USDTUSD",
+    "Name": "Tether - United States Dollar"
+  },
+  {
+    "Ticker": "X:USTBLUSD",
+    "Name": "USTBL - United States Dollar"
+  },
+  {
+    "Ticker": "X:USTUSD",
+    "Name": "TerraUST - United States Dollar"
+  },
+  {
+    "Ticker": "X:UTKUSD",
+    "Name": "UTrust - United States Dollar"
+  },
+  {
+    "Ticker": "X:UXLINKUSD",
+    "Name": "UXLINK - United States Dollar"
+  },
+  {
+    "Ticker": "X:VANRYUSD",
+    "Name": "VANRY - United States Dollar"
+  },
+  {
+    "Ticker": "X:VARAUSD",
+    "Name": "Vara - United States Dollar"
+  },
+  {
+    "Ticker": "X:VCHFUSD",
+    "Name": "VNX Swiss Franc - United States Dollar"
+  },
+  {
+    "Ticker": "X:VEEUSD",
+    "Name": "BLOCKv - United States Dollar"
+  },
+  {
+    "Ticker": "X:VEGAUSD",
+    "Name": "Vega Protocol - United States Dollar"
+  },
+  {
+    "Ticker": "X:VELARUSD",
+    "Name": "Velar - United States Dollar"
+  },
+  {
+    "Ticker": "X:VELOUSD",
+    "Name": "Velo - United States Dollar"
+  },
+  {
+    "Ticker": "X:VETUSD",
+    "Name": "VeChain - United States Dollar"
+  },
+  {
+    "Ticker": "X:VEURUSD",
+    "Name": "VNX EURO - United States Dollar"
+  },
+  {
+    "Ticker": "X:VEXTUSD",
+    "Name": "Veloce - United States Dollar"
+  },
+  {
+    "Ticker": "X:VGXUSD",
+    "Name": "Voyager Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:VOXELUSD",
+    "Name": "Voxies - United States Dollar"
+  },
+  {
+    "Ticker": "X:VSYUSD",
+    "Name": "VSY - United States Dollar"
+  },
+  {
+    "Ticker": "X:VTHOUSD",
+    "Name": "VeThor Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:WAMPLUSD",
+    "Name": "Wrapped Ampleforth - United States Dollar"
+  },
+  {
+    "Ticker": "X:WAVESUSD",
+    "Name": "Waves - United States Dollar"
+  },
+  {
+    "Ticker": "X:WAXLUSD",
+    "Name": "Wrapped Axelar - United States Dollar"
+  },
+  {
+    "Ticker": "X:WAXUSD",
+    "Name": "Wax - United States Dollar"
+  },
+  {
+    "Ticker": "X:WBTCUSD",
+    "Name": "Wrapped Bitcoin - United States Dollar"
+  },
+  {
+    "Ticker": "X:WBTUSD",
+    "Name": "WhiteBIT Coin - United States Dollar"
+  },
+  {
+    "Ticker": "X:WCFGUSD",
+    "Name": "Wrapped Centrifuge - United States Dollar"
+  },
+  {
+    "Ticker": "X:WECANUSD",
+    "Name": "Wecan - United States Dollar"
+  },
+  {
+    "Ticker": "X:WELLUSD",
+    "Name": "Moonwell - United States Dollar"
+  },
+  {
+    "Ticker": "X:WENUSD",
+    "Name": "WEN Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:WEUR",
+    "Name": "Wormhole - Euro"
+  },
+  {
+    "Ticker": "X:WHBTUSD",
+    "Name": "WhiteBIT Token - United States Dollar"
+  },
+  {
+    "Ticker": "X:WIFEUR",
+    "Name": "dogwifhat - Euro"
+  },
+  {
+    "Ticker": "X:WIFUSD",
+    "Name": "dogwifhat - United States Dollar"
+  },
+  {
+    "Ticker": "X:WILDUSD",
+    "Name": "Wilder World - United States Dollar"
+  },
+  {
+    "Ticker": "X:WLUNAUSD",
+    "Name": "Wrapped Luna Classic - United States Dollar"
+  },
+  {
+    "Ticker": "X:WNCGUSD",
+    "Name": "WNCG - United States Dollar"
+  },
+  {
+    "Ticker": "X:WOOUSD",
+    "Name": "WOO - United States Dollar"
+  },
+  {
+    "Ticker": "X:WUSD",
+    "Name": "Wormhole - United States Dollar"
+  },
+  {
+    "Ticker": "X:WXXUSD",
+    "Name": "WXX - United States Dollar"
+  },
+  {
+    "Ticker": "X:XAUTUSD",
+    "Name": "Tether Gold - United States Dollar"
+  },
+  {
+    "Ticker": "X:XCADUSD",
+    "Name": "XCAD Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:XCHNGUSD",
+    "Name": "XCHNG Platform - United States Dollar"
+  },
+  {
+    "Ticker": "X:XCNUSD",
+    "Name": "Onyxcoin - United States Dollar"
+  },
+  {
+    "Ticker": "X:XDCUSD",
+    "Name": "XDC Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:XLMUSD",
+    "Name": "Stellar - United States Dollar"
+  },
+  {
+    "Ticker": "X:XMRUSD",
+    "Name": "Monero - United States Dollar"
+  },
+  {
+    "Ticker": "X:XRAUSD",
+    "Name": "Ratecoin - United States Dollar"
+  },
+  {
+    "Ticker": "X:XRDUSD",
+    "Name": "Radix - United States Dollar"
+  },
+  {
+    "Ticker": "X:XRPAUD",
+    "Name": "Ripple - Australian dollar"
+  },
+  {
+    "Ticker": "X:XRPBTC",
+    "Name": "Ripple - Bitcoin"
+  },
+  {
+    "Ticker": "X:XRPUSD",
+    "Name": "Ripple - United States Dollar"
+  },
+  {
+    "Ticker": "X:XRTUSD",
+    "Name": "Robonomics Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:XSGDUSD",
+    "Name": "XSGD - United States Dollar"
+  },
+  {
+    "Ticker": "X:XTPUSD",
+    "Name": "Tap - United States Dollar"
+  },
+  {
+    "Ticker": "X:XTZUSD",
+    "Name": "Tezos - United States Dollar"
+  },
+  {
+    "Ticker": "X:XVGUSD",
+    "Name": "Verge - United States Dollar"
+  },
+  {
+    "Ticker": "X:XYOUSD",
+    "Name": "XYO - United States Dollar"
+  },
+  {
+    "Ticker": "X:YFIIUSD",
+    "Name": "DFI.Money - United States Dollar"
+  },
+  {
+    "Ticker": "X:YFIUSD",
+    "Name": "yearn.finance - United States Dollar"
+  },
+  {
+    "Ticker": "X:YGGEUR",
+    "Name": "YggDrash - Euro"
+  },
+  {
+    "Ticker": "X:YGGUSD",
+    "Name": "YggDrash - United States Dollar"
+  },
+  {
+    "Ticker": "X:ZCNUSD",
+    "Name": "0chain - United States Dollar"
+  },
+  {
+    "Ticker": "X:ZECUSD",
+    "Name": "Zcash - United States Dollar"
+  },
+  {
+    "Ticker": "X:ZENUSD",
+    "Name": "Horizen - United States Dollar"
+  },
+  {
+    "Ticker": "X:ZETACHAINUSD",
+    "Name": "ZetaChain - United States Dollar"
+  },
+  {
+    "Ticker": "X:ZETAUSD",
+    "Name": "ZetaChain - United States Dollar"
+  },
+  {
+    "Ticker": "X:ZEUSUSD",
+    "Name": "Zeus Network - United States Dollar"
+  },
+  {
+    "Ticker": "X:ZEXUSD",
+    "Name": "Zeta - United States Dollar"
+  },
+  {
+    "Ticker": "X:ZILUSD",
+    "Name": "Zilliqa - United States Dollar"
+  },
+  {
+    "Ticker": "X:ZKUSD",
+    "Name": "ZKsync - United States Dollar"
+  },
+  {
+    "Ticker": "X:ZKXUSD",
+    "Name": "zkSync - United States Dollar"
+  },
+  {
+    "Ticker": "X:ZMTUSD",
+    "Name": "Zipmex - United States Dollar"
+  },
+  {
+    "Ticker": "X:ZROUSD",
+    "Name": "LayerZero - United States Dollar"
+  },
+  {
+    "Ticker": "X:ZRXUSD",
+    "Name": "0x - United States Dollar"
+  },
+  {
+    "Ticker": "X:ZUSDUSD",
+    "Name": "Zasset zUSD - United States Dollar"
+  }
+]

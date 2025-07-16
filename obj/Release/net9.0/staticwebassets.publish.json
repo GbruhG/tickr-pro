@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "35ZRK6//PhWuv9nbzhZMzQTudH94dzHJ7kTQxuwMUtA=",
+  "Source": "StockApi",
+  "BasePath": "_content/StockApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
