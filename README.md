@@ -2,8 +2,6 @@
 
 **Live terminal-style dashboard for stocks and crypto, with customizable widgets and real-time data.**
 
-![tickr.pro screenshot](https://your-screenshot-link.com) <!-- optional image -->
-
 ## 🌐 Live Demo
 
 🔗 [tickr.pro](https://tickr.pro)
